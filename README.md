@@ -24,3 +24,13 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
+Here is the Deployed link:
+https://codystepp1006.github.io/JavaScriptMadeQuizz/
+
+Here is the link to my GitHub:
+https://github.com/codystepp1006/JavaScriptMadeQuizz
+
+acknowledgments:
+
+Coding Bootcamp Lessons/notes
+Youtube Tutorials 
